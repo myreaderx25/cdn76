@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="601px" height="188px" viewBox="0 0 601 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>squiggke-arrow-left</title>
+    <g id="squiggke-arrow-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <path d="M7,62 C14,90 82,134 125,117 C168,100 201,8 276,62 C311.907656,87.853512 326,109 319,141 C312,173 241.044724,194.177719 238,114 C234.166403,13.0486176 348,-23 404,31 C450.546982,75.8845894 449.981838,224.074476 596,144" id="Path" stroke="#6A56F6" stroke-width="10" transform="translate(301.500000, 87.791968) scale(-1, 1) translate(-301.500000, -87.791968) "></path>
+        <polyline id="Path-2" stroke="#6A56F6" stroke-width="10" transform="translate(25.000000, 153.000000) scale(-1, 1) translate(-25.000000, -153.000000) " points="37 183 44 143 6 123"></polyline>
+    </g>
+</svg>
